@@ -16,5 +16,5 @@ public class BurritoBudget {
 		
 		System.out.println("You have spent an average of $" + averageWeeklyPrice + " per week on burritos.");
 	
-	}
+	}  
 }
